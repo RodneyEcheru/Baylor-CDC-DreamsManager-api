@@ -1,0 +1,308 @@
+2024-06-14T13:27:11.740827+0300 INFO server_error: False
+2024-06-14T13:27:11.741826+0300 INFO server_message: Account Modified
+2024-06-14T13:28:33.668879+0300 INFO server_error: False
+2024-06-14T13:28:33.670156+0300 INFO server_message: Account Modified
+2024-06-14T13:28:42.450806+0300 INFO server_error: False
+2024-06-14T13:28:42.451803+0300 INFO server_message: Account Modified
+2024-06-14T13:32:36.616637+0300 INFO server_error: False
+2024-06-14T13:32:36.620583+0300 INFO server_message: Account Modified
+2024-06-14T13:32:41.617763+0300 INFO server_error: False
+2024-06-14T13:32:41.619899+0300 INFO server_message: Account Modified
+2024-06-14T13:33:12.119735+0300 INFO server_error: False
+2024-06-14T13:33:12.120742+0300 INFO server_message: Account Modified
+2024-06-14T13:35:10.075721+0300 INFO server_error: False
+2024-06-14T13:35:10.076724+0300 INFO server_message: Account Modified
+2024-06-14T13:35:12.236054+0300 ERROR collection: user
+2024-06-14T13:35:12.239108+0300 ERROR collection2: AsyncIOMotorCollection(Collection(Database(MongoClient(host=['localhost:27011'], document_class=dict, tz_aware=False, connect=False, driver=DriverInfo(name='Motor', version='3.4.0', platform='asyncio')), 'memo'), 'user'))
+2024-06-14T13:35:12.240144+0300 INFO server_error: False
+2024-06-14T13:35:12.240144+0300 INFO server_message: Account Modified
+2024-06-14T13:35:14.686279+0300 ERROR collection: user
+2024-06-14T13:35:14.687278+0300 ERROR collection2: AsyncIOMotorCollection(Collection(Database(MongoClient(host=['localhost:27011'], document_class=dict, tz_aware=False, connect=False, driver=DriverInfo(name='Motor', version='3.4.0', platform='asyncio')), 'memo'), 'user'))
+2024-06-14T13:35:14.689278+0300 INFO server_error: False
+2024-06-14T13:35:14.689278+0300 INFO server_message: Account Modified
+2024-06-14T13:38:15.838618+0300 ERROR collection: user
+2024-06-14T13:38:15.842080+0300 ERROR collection2: AsyncIOMotorCollection(Collection(Database(MongoClient(host=['localhost:27011'], document_class=dict, tz_aware=False, connect=False, driver=DriverInfo(name='Motor', version='3.4.0', platform='asyncio')), 'memo'), 'user'))
+2024-06-14T13:38:15.844090+0300 INFO server_error: False
+2024-06-14T13:38:15.845762+0300 INFO server_message: Account Modified
+2024-06-14T13:38:19.681438+0300 INFO server_error: False
+2024-06-14T13:38:19.682443+0300 INFO server_message: Account Modified
+2024-06-14T13:38:48.646152+0300 INFO server_error: False
+2024-06-14T13:38:48.646152+0300 INFO server_message: Account Modified
+2024-06-14T13:39:46.112378+0300 INFO server_error: False
+2024-06-14T13:39:46.113444+0300 INFO server_message: Account Modified
+2024-06-14T13:39:53.681892+0300 INFO server_error: False
+2024-06-14T13:39:53.682899+0300 INFO server_message: Account Modified
+2024-06-14T13:39:58.024815+0300 INFO server_error: False
+2024-06-14T13:39:58.025816+0300 INFO server_message: Account Modified
+2024-06-14T13:40:56.185827+0300 INFO server_error: False
+2024-06-14T13:40:56.186827+0300 INFO server_message: Account Modified
+2024-06-14T13:41:27.538578+0300 INFO server_error: False
+2024-06-14T13:41:27.538578+0300 INFO server_message: Account Modified
+2024-06-14T13:41:31.266933+0300 INFO server_error: False
+2024-06-14T13:41:31.267828+0300 INFO server_message: Account Modified
+2024-06-14T13:41:34.920783+0300 INFO server_error: False
+2024-06-14T13:41:34.921779+0300 INFO server_message: Account Modified
+2024-06-14T13:42:00.545691+0300 INFO server_error: False
+2024-06-14T13:42:00.545691+0300 INFO server_message: Account Modified
+2024-06-14T13:42:03.988439+0300 INFO server_error: False
+2024-06-14T13:42:03.988439+0300 INFO server_message: Account Modified
+2024-06-14T13:42:07.385841+0300 INFO server_error: False
+2024-06-14T13:42:07.386816+0300 INFO server_message: Account Modified
+2024-06-14T13:42:10.791891+0300 INFO server_error: False
+2024-06-14T13:42:10.792898+0300 INFO server_message: Account Modified
+2024-06-14T13:42:14.875925+0300 INFO server_error: False
+2024-06-14T13:42:14.875925+0300 INFO server_message: Account Modified
+2024-06-14T13:52:48.672873+0300 INFO server_error: False
+2024-06-14T13:52:48.674315+0300 INFO server_message: Account Modified
+2024-06-14T13:52:51.955944+0300 INFO server_error: False
+2024-06-14T13:52:51.956945+0300 INFO server_message: Login successful
+2024-06-14T14:01:10.210724+0300 INFO server_error: False
+2024-06-14T14:01:10.212095+0300 INFO server_message: Success
+2024-06-14T14:01:10.227486+0300 INFO server_error: False
+2024-06-14T14:01:10.228485+0300 INFO server_message: Success
+2024-06-14T14:01:11.254605+0300 INFO server_error: False
+2024-06-14T14:01:11.256074+0300 INFO server_message: Success
+2024-06-21T16:15:05.958653+0300 INFO server_error: False
+2024-06-21T16:15:05.989367+0300 INFO server_message: Success
+2024-06-21T16:15:16.562048+0300 INFO server_error: False
+2024-06-21T16:15:16.564024+0300 INFO server_message: Success
+2024-06-21T16:49:22.860671+0300 INFO server_error: False
+2024-06-21T16:49:22.896810+0300 INFO server_message: Success
+2024-06-21T16:49:39.246255+0300 INFO server_error: False
+2024-06-21T16:49:39.250253+0300 INFO server_message: Success
+2024-06-21T16:49:49.185337+0300 INFO server_error: False
+2024-06-21T16:49:49.187351+0300 INFO server_message: Login successful
+2024-06-21T19:48:06.491246+0300 INFO server_error: False
+2024-06-21T19:48:06.516470+0300 INFO server_message: Login successful
+2024-06-21T19:48:10.492641+0300 INFO server_error: False
+2024-06-21T19:48:10.496715+0300 INFO server_message: Success
+2024-06-21T19:48:10.526729+0300 INFO server_error: False
+2024-06-21T19:48:10.529639+0300 INFO server_message: Success
+2024-06-21T19:48:11.434581+0300 INFO server_error: False
+2024-06-21T19:48:11.434581+0300 INFO server_message: Success
+2024-06-21T19:52:34.368152+0300 INFO server_error: False
+2024-06-21T19:52:34.371394+0300 INFO server_message: Success
+2024-06-21T19:52:34.383954+0300 INFO server_error: False
+2024-06-21T19:52:34.384905+0300 INFO server_message: Success
+2024-06-21T19:52:34.959198+0300 INFO server_error: False
+2024-06-21T19:52:34.961200+0300 INFO server_message: Success
+2024-06-21T19:52:45.096073+0300 INFO server_error: False
+2024-06-21T19:52:45.098639+0300 INFO server_message: Success
+2024-06-21T19:52:50.464166+0300 INFO server_error: False
+2024-06-21T19:52:50.466176+0300 INFO server_message: Success
+2024-06-21T19:52:50.976233+0300 INFO server_error: False
+2024-06-21T19:52:50.977240+0300 INFO server_message: Success
+2024-06-21T19:52:55.902334+0300 INFO server_error: False
+2024-06-21T19:52:55.903624+0300 INFO server_message: Success
+2024-06-21T19:52:55.924305+0300 INFO server_error: False
+2024-06-21T19:52:55.925264+0300 INFO server_message: Success
+2024-06-21T19:52:56.474436+0300 INFO server_error: False
+2024-06-21T19:52:56.486966+0300 INFO server_message: Success
+2024-06-21T20:18:15.488302+0300 INFO server_error: False
+2024-06-21T20:18:15.492608+0300 INFO server_message: Login successful
+2024-06-21T20:21:16.357748+0300 INFO server_error: True
+2024-06-21T20:21:16.360750+0300 INFO server_message: Resource Error
+2024-06-21T20:21:23.878475+0300 INFO server_error: True
+2024-06-21T20:21:23.881481+0300 INFO server_message: Resource Error
+2024-06-21T20:39:15.089172+0300 INFO server_error: True
+2024-06-21T20:39:15.093178+0300 INFO server_message: Resource Error
+2024-06-21T20:40:12.628184+0300 INFO server_error: False
+2024-06-21T20:40:12.633166+0300 INFO server_message: Success
+2024-06-21T20:40:14.668921+0300 INFO server_error: True
+2024-06-21T20:40:14.674930+0300 INFO server_message: Resource Error
+2024-06-21T20:40:28.236425+0300 INFO server_error: False
+2024-06-21T20:40:28.238427+0300 INFO server_message: Success
+2024-06-21T20:40:29.381879+0300 INFO server_error: True
+2024-06-21T20:40:29.385882+0300 INFO server_message: Resource Error
+2024-06-21T20:41:27.850852+0300 INFO server_error: False
+2024-06-21T20:41:27.854667+0300 INFO server_message: Success
+2024-06-21T20:41:29.664575+0300 INFO server_error: False
+2024-06-21T20:41:29.666493+0300 INFO server_message: Success
+2024-06-21T20:41:31.379117+0300 INFO server_error: False
+2024-06-21T20:41:31.381114+0300 INFO server_message: Success
+2024-06-21T20:43:39.897062+0300 INFO server_error: True
+2024-06-21T20:43:39.900791+0300 INFO server_message: Validation Error
+2024-06-21T20:49:19.007928+0300 INFO server_error: True
+2024-06-21T20:49:19.013009+0300 INFO server_message: Validation Error
+2024-06-21T20:49:24.722901+0300 INFO server_error: False
+2024-06-21T20:49:24.726929+0300 INFO server_message: Success
+2024-06-21T20:49:28.735406+0300 INFO server_error: False
+2024-06-21T20:49:28.738499+0300 INFO server_message: Login successful
+2024-06-21T20:49:33.061809+0300 INFO server_error: False
+2024-06-21T20:49:33.065821+0300 INFO server_message: Success
+2024-06-21T20:49:35.082206+0300 INFO server_error: False
+2024-06-21T20:49:35.095437+0300 INFO server_message: Success
+2024-06-21T20:50:28.969163+0300 INFO server_error: False
+2024-06-21T20:50:28.973167+0300 INFO server_message: Success
+2024-06-21T20:50:34.222324+0300 INFO server_error: False
+2024-06-21T20:50:34.227442+0300 INFO server_message: Success
+2024-06-21T21:05:59.857473+0300 INFO server_error: True
+2024-06-21T21:05:59.865473+0300 INFO server_message: Resource Error
+2024-06-21T21:15:26.034101+0300 INFO server_error: False
+2024-06-21T21:15:26.039090+0300 INFO server_message: Login successful
+2024-06-21T21:15:30.773426+0300 INFO server_error: True
+2024-06-21T21:15:30.792530+0300 INFO server_message: Resource Error
+2024-06-21T21:15:42.620547+0300 INFO server_error: True
+2024-06-21T21:15:42.625175+0300 INFO server_message: Resource Error
+2024-06-21T21:20:24.235302+0300 INFO server_error: True
+2024-06-21T21:20:24.250990+0300 INFO server_message: Resource Error
+2024-06-21T21:21:55.779879+0300 INFO server_error: False
+2024-06-21T21:21:55.786037+0300 INFO server_message: Success
+2024-06-21T21:21:57.728895+0300 INFO server_error: False
+2024-06-21T21:21:57.733171+0300 INFO server_message: Success
+2024-06-21T21:27:01.692066+0300 INFO server_error: False
+2024-06-21T21:27:01.694068+0300 INFO server_message: Success
+2024-06-21T21:27:03.105144+0300 INFO server_error: False
+2024-06-21T21:27:03.108174+0300 INFO server_message: Success
+2024-06-21T21:29:17.919313+0300 INFO server_error: False
+2024-06-21T21:29:17.923318+0300 INFO server_message: Success
+2024-06-21T21:29:19.043495+0300 INFO server_error: False
+2024-06-21T21:29:19.049498+0300 INFO server_message: Success
+2024-06-21T21:29:21.053884+0300 INFO server_error: False
+2024-06-21T21:29:21.058893+0300 INFO server_message: Success
+2024-06-21T21:30:24.506218+0300 INFO server_error: False
+2024-06-21T21:30:24.511224+0300 INFO server_message: Success
+2024-06-21T21:30:31.404146+0300 INFO server_error: False
+2024-06-21T21:30:31.407184+0300 INFO server_message: Success
+2024-06-21T21:31:15.747906+0300 INFO server_error: False
+2024-06-21T21:31:15.754903+0300 INFO server_message: Success
+2024-06-21T21:31:22.663510+0300 INFO server_error: False
+2024-06-21T21:31:22.677668+0300 INFO server_message: Success
+2024-06-21T21:31:50.671939+0300 INFO server_error: False
+2024-06-21T21:31:50.676962+0300 INFO server_message: Success
+2024-06-21T21:31:58.134965+0300 INFO server_error: False
+2024-06-21T21:31:58.140975+0300 INFO server_message: Success
+2024-06-21T21:32:15.449186+0300 INFO server_error: False
+2024-06-21T21:32:15.454214+0300 INFO server_message: Success
+2024-06-21T21:32:22.005647+0300 INFO server_error: False
+2024-06-21T21:32:22.009646+0300 INFO server_message: Success
+2024-06-21T21:40:39.748781+0300 INFO server_error: False
+2024-06-21T21:40:39.761160+0300 INFO server_message: Success
+2024-06-21T21:40:41.433200+0300 INFO server_error: False
+2024-06-21T21:40:41.435224+0300 INFO server_message: Success
+2024-06-21T21:41:11.261841+0300 INFO server_error: False
+2024-06-21T21:41:11.268055+0300 INFO server_message: Success
+2024-06-21T21:41:13.111092+0300 INFO server_error: False
+2024-06-21T21:41:13.114086+0300 INFO server_message: Success
+2024-06-21T21:41:19.919983+0300 INFO server_error: True
+2024-06-21T21:41:19.929278+0300 INFO server_message: Resource Error
+2024-06-21T21:47:14.692265+0300 INFO server_error: False
+2024-06-21T21:47:14.707103+0300 INFO server_message: Login successful
+2024-06-21T21:47:24.956778+0300 INFO server_error: True
+2024-06-21T21:47:24.963206+0300 INFO server_message: Resource Error
+2024-06-21T21:47:34.910119+0300 INFO server_error: True
+2024-06-21T21:47:34.914270+0300 INFO server_message: Resource Error
+2024-06-21T21:48:38.843798+0300 INFO server_error: True
+2024-06-21T21:48:38.846798+0300 INFO server_message: Resource Error
+2024-06-21T21:49:20.703367+0300 INFO server_error: True
+2024-06-21T21:49:20.705368+0300 INFO server_message: Resource Error
+2024-06-21T21:56:53.590448+0300 INFO server_error: True
+2024-06-21T21:56:53.618502+0300 INFO server_message: Resource Error
+2024-06-21T21:57:06.303944+0300 INFO server_error: True
+2024-06-21T21:57:06.307764+0300 INFO server_message: Resource Error
+2024-06-21T21:57:29.802349+0300 INFO server_error: False
+2024-06-21T21:57:29.806389+0300 INFO server_message: Success
+2024-06-21T21:57:35.198149+0300 INFO server_error: False
+2024-06-21T21:57:35.207238+0300 INFO server_message: Success
+2024-06-21T21:58:07.848996+0300 INFO server_error: False
+2024-06-21T21:58:07.856359+0300 INFO server_message: Success
+2024-06-21T21:58:51.828293+0300 INFO server_error: False
+2024-06-21T21:58:51.837922+0300 INFO server_message: Success
+2024-06-21T21:59:01.667654+0300 INFO server_error: False
+2024-06-21T21:59:01.680913+0300 INFO server_message: Success
+2024-06-21T22:04:03.161750+0300 INFO server_error: False
+2024-06-21T22:04:03.183722+0300 INFO server_message: Success
+2024-06-21T22:17:59.139789+0300 INFO server_error: False
+2024-06-21T22:17:59.147109+0300 INFO server_message: Login successful
+2024-06-21T22:18:06.478331+0300 INFO server_error: False
+2024-06-21T22:18:06.484329+0300 INFO server_message: Success
+2024-06-21T22:19:17.436586+0300 INFO server_error: True
+2024-06-21T22:19:17.441697+0300 INFO server_message: Validation Error
+2024-06-21T22:27:17.511207+0300 INFO server_error: True
+2024-06-21T22:27:17.522053+0300 INFO server_message: Validation Error
+2024-06-21T22:27:24.323197+0300 INFO server_error: True
+2024-06-21T22:27:24.328224+0300 INFO server_message: Validation Error
+2024-06-21T22:28:00.843170+0300 INFO server_error: True
+2024-06-21T22:28:00.847171+0300 INFO server_message: Validation Error
+2024-06-21T22:28:08.121386+0300 INFO server_error: False
+2024-06-21T22:28:08.127394+0300 INFO server_message: Success
+2024-06-21T22:28:11.049641+0300 INFO server_error: False
+2024-06-21T22:28:11.061229+0300 INFO server_message: Success
+2024-06-21T22:30:04.212812+0300 INFO server_error: False
+2024-06-21T22:30:04.220839+0300 INFO server_message: Success
+2024-06-21T22:30:12.533991+0300 INFO server_error: False
+2024-06-21T22:30:12.536997+0300 INFO server_message: Success
+2024-06-21T22:34:22.849042+0300 INFO server_error: False
+2024-06-21T22:34:22.854245+0300 INFO server_message: Success
+2024-06-21T22:34:24.499419+0300 INFO server_error: False
+2024-06-21T22:34:24.504423+0300 INFO server_message: Success
+2024-06-21T22:34:36.452012+0300 INFO server_error: False
+2024-06-21T22:34:36.455057+0300 INFO server_message: Success
+2024-06-21T22:34:36.483528+0300 INFO server_error: False
+2024-06-21T22:34:36.485847+0300 INFO server_message: Success
+2024-06-21T22:34:38.094956+0300 INFO server_error: False
+2024-06-21T22:34:38.097951+0300 INFO server_message: Success
+2024-06-21T22:36:27.945484+0300 INFO server_error: False
+2024-06-21T22:36:27.949502+0300 INFO server_message: Success
+2024-06-21T22:36:27.978486+0300 INFO server_error: False
+2024-06-21T22:36:27.983488+0300 INFO server_message: Success
+2024-06-21T22:36:29.502237+0300 INFO server_error: False
+2024-06-21T22:36:29.517241+0300 INFO server_message: Success
+2024-06-21T22:38:23.491964+0300 INFO server_error: False
+2024-06-21T22:38:23.497963+0300 INFO server_message: Success
+2024-06-21T22:38:25.491410+0300 INFO server_error: False
+2024-06-21T22:38:25.496421+0300 INFO server_message: Success
+2024-06-21T22:39:37.990987+0300 INFO server_error: False
+2024-06-21T22:39:37.995972+0300 INFO server_message: Success
+2024-06-21T22:39:45.338546+0300 INFO server_error: False
+2024-06-21T22:39:45.340625+0300 INFO server_message: Success
+2024-06-21T22:42:57.666207+0300 INFO server_error: False
+2024-06-21T22:42:57.672030+0300 INFO server_message: Success
+2024-06-21T22:47:08.735287+0300 INFO server_error: False
+2024-06-21T22:47:08.744285+0300 INFO server_message: Success
+2024-06-21T22:47:15.607858+0300 INFO server_error: False
+2024-06-21T22:47:15.610842+0300 INFO server_message: Success
+2024-06-21T22:50:02.588979+0300 INFO server_error: False
+2024-06-21T22:50:02.605077+0300 INFO server_message: Login successful
+2024-06-21T22:50:17.331113+0300 INFO server_error: False
+2024-06-21T22:50:17.336311+0300 INFO server_message: Success
+2024-06-21T22:50:18.977205+0300 INFO server_error: False
+2024-06-21T22:50:18.982207+0300 INFO server_message: Success
+2024-06-21T22:50:31.665530+0300 INFO server_error: False
+2024-06-21T22:50:31.681537+0300 INFO server_message: Success
+2024-06-21T22:50:34.726035+0300 INFO server_error: False
+2024-06-21T22:50:34.739032+0300 INFO server_message: Success
+2024-06-21T22:50:48.724252+0300 INFO server_error: False
+2024-06-21T22:50:48.728289+0300 INFO server_message: Success
+2024-06-21T22:50:50.557133+0300 INFO server_error: False
+2024-06-21T22:50:50.562396+0300 INFO server_message: Success
+2024-06-21T22:57:29.552097+0300 INFO server_error: True
+2024-06-21T22:57:29.570100+0300 INFO server_message: Resource Error
+2024-06-21T22:57:32.594507+0300 INFO server_error: True
+2024-06-21T22:57:32.596511+0300 INFO server_message: Resource Error
+2024-06-21T23:15:37.899292+0300 INFO server_error: False
+2024-06-21T23:15:37.908726+0300 INFO server_message: Success
+2024-06-21T23:15:55.294581+0300 INFO server_error: False
+2024-06-21T23:15:55.316866+0300 INFO server_message: Success
+2024-06-21T23:16:08.728282+0300 INFO server_error: False
+2024-06-21T23:16:08.730292+0300 INFO server_message: Success
+2024-06-21T23:16:09.953141+0300 INFO server_error: False
+2024-06-21T23:16:09.957637+0300 INFO server_message: Success
+2024-06-21T23:20:40.688502+0300 INFO server_error: False
+2024-06-21T23:20:40.691513+0300 INFO server_message: Login successful
+2024-06-21T23:20:46.138076+0300 INFO server_error: False
+2024-06-21T23:20:46.141087+0300 INFO server_message: Success
+2024-06-21T23:20:47.901808+0300 INFO server_error: False
+2024-06-21T23:20:47.904805+0300 INFO server_message: Success
+2024-06-21T23:39:12.392638+0300 INFO server_error: False
+2024-06-21T23:39:12.393637+0300 INFO server_message: Success
+2024-06-21T23:39:12.736108+0300 INFO server_error: False
+2024-06-21T23:39:12.738126+0300 INFO server_message: Success
+2024-06-21T23:41:56.523047+0300 INFO server_error: False
+2024-06-21T23:41:56.524391+0300 INFO server_message: Success
+2024-06-21T23:42:01.876463+0300 INFO server_error: False
+2024-06-21T23:42:01.877487+0300 INFO server_message: Success
+2024-06-21T23:42:02.412945+0300 INFO server_error: False
+2024-06-21T23:42:02.420753+0300 INFO server_message: Success
+2024-06-21T23:45:40.883047+0300 INFO server_error: False
+2024-06-21T23:45:40.887137+0300 INFO server_message: Login successful
